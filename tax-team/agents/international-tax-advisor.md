@@ -71,7 +71,7 @@ This is the biggest legal risk for foreign structuring:
 | Cyprus | 12.5% | 2.5% (IP Box) | R&D nexus required | EU member; low threshold for substance |
 | UAE | 9% (>AED 375k) | 0% free zones | Minimum 1 employee, local office | No DTA with Germany; §8 AStG risk |
 | Malta | 35% (effective 5% with refund) | — | Complex refund structure | EU member |
-| Estonia | 0% on retained earnings | — | Only for EU residents | Defers tax, doesn't eliminate it |
+| Estonia | 0% on retained earnings | — | Tax deferred on distribution, not eliminated; German CFC rules still apply | Rarely viable — deferral only, not elimination |
 
 ## Output Format
 
