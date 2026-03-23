@@ -105,6 +105,7 @@ TAX_STATE.md tracks the 9-entity filing status, upcoming deadlines, open decisio
 3. Filing status updates after every completed filing
 4. Open decisions are resolved by the appropriate advisory role and marked closed
 5. Keep it under 600 tokens — compact when a full tax year closes
+6. Cross-entity conflicts (e.g., a Bookkeeper classification that affects a VAT Specialist filing) are escalated to the Orchestrator for routing to the appropriate advisory role. ORCHESTRATOR.md owns the full conflict resolution logic.
 
 ---
 
@@ -120,7 +121,7 @@ TAX_STATE.md tracks the 9-entity filing status, upcoming deadlines, open decisio
 | 05 | Snacks | Sole or GbR | Food business: 7% for food items; 19% for non-food |
 | 06 | MilkyCream (Eisdiele) | Company (type TBD) | Ice cream: 7% in-shop, 19% to-go in some cases |
 | 07 | Kaffee Klatsch / Klatte Catering | GbR | Catering: mixed rates depending on service type |
-| 08 | Bordello | Digital platform | Primary source of international revenue; JMStV applies; EU OSS required; IP structuring candidate |
+| 08 | Bordello | Sole or GbR (TBD) | Primary source of international revenue; JMStV applies; EU OSS required; IP structuring candidate |
 
 ---
 
